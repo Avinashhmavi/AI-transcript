@@ -9,6 +9,3 @@ beautifulsoup4==4.12.2
 ffmpeg-python==0.2.0
 pillow==10.2.0
 --find-links https://wheels.streamlit.app/pillow/
-libjpeg-dev
-zlib1g-dev
-pip==25.0
